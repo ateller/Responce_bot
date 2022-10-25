@@ -1,0 +1,4 @@
+api_id = 12345678
+api_hash = 'some_hash'
+
+replies = {'username1': ['test'], 'username2': ['test', 'test2']} #dictionary, key - username, items - arrays of answers, randomly selected one for reply
